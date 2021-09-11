@@ -14,7 +14,7 @@ author: Matthew
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Resume: "aboutme"
+  Resume: "resume"
   About Me:
     - Hobbies: ""
     - Learn markdown: ""
