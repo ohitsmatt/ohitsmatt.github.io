@@ -14,10 +14,10 @@ author: Matthew
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Resume: "aboutme"
+  About Me:
+    - Hobbies: ""
+    - Learn markdown: ""
   Author's home: "https://www.linkedin.com/in/matthew-mata-moles-288006178/"
 
 # --- Logo --- #
@@ -32,7 +32,6 @@ round-avatar: true
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
 #title-img: /path/to/image
-title-img: "/assests/img/avatar-icon.png"
 
 # --- Footer social media links --- #
 
