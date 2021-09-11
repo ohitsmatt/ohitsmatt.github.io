@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: Oh! Its Matt
+title: Matthew Mata-Moles
 
 # Your name to show in the footer
-author: ME!
+author: Matthew
 
 # --- List of links in the navigation bar --- #
 
@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://www.linkedin.com/in/matthew-mata-moles-288006178/"
 
 # --- Logo --- #
 
@@ -32,26 +32,23 @@ round-avatar: true
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
 #title-img: /path/to/image
-
+title-img: "/assests/img/avatar-icon.png"
 
 # --- Footer social media links --- #
 
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "mmatamoles@gmail.com"
+  github: ohitsmatt
+  youtube: 
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
+#  snapchat: 
+#  instagram: 
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
