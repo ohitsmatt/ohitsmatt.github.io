@@ -1,10 +1,11 @@
 ---
 layout: page
-title: About Me
+title: Resume
 subtitle: My own digital resume
 ---
 
 Perfessional Summary:
+
  I'm a quick learning, self-driven, equipped with a diverse and promising skill-set. Capable of addressing challenges with a proven track record of increased productivity. Acted as a role model and mentor for new trainees. Provided on the job training. People oriented, able to adapt, hard working, goal-driven, and a team player
 
 Skills:
@@ -24,6 +25,8 @@ Work History:
  FedEx Ground - Mesquite, TX
 
 -Installtion Technican - January, 2019 to December, 2019
+
+
  Safe Haven Security, ADT Authorized Dealer - Seattle, WA
 
 Education:
@@ -40,10 +43,10 @@ Refences:
 - Tim Smith, 206.383.6820
 
 Affilations:
-- Lead IT Tech, Motion Church in Bonney Lake WA
+Lead IT Tech, Motion Church in Bonney Lake WA
  - Maintained excellent internet connection
  - Fixed all tech related issues
-- Lead Media Director, Oaks Church in Mckinney TX
+Lead Media Director, Oaks Church in Mckinney TX
  - Manage online live stream video
  - Communication with camera operators
  - Inform volunteers on specific spots and angles
