@@ -16,8 +16,8 @@ author: Matthew
 navbar-links:
   Resume: "resume"
   About Me:
-    - Hobbies: ""
-    - Life & Wife: ""
+    - Hobbies: "hobbies"
+    - Life & Wife: "landw"
   Personal: "https://www.linkedin.com/in/matthew-mata-moles-288006178/"
 
 # --- Logo --- #
@@ -40,14 +40,14 @@ round-avatar: true
 social-network-links:
   email: "mmatamoles@gmail.com"
   github: ohitsmatt
-  youtube: 
+  youtube:
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
-#  snapchat: 
-#  instagram: 
+#  snapchat:
+#  instagram:
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
