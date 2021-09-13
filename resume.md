@@ -21,16 +21,14 @@ Skills:
 - Git
 
 Work History:
-- Assistant Manager - December, 2019 to Present
+- Assistant Manager - December, 2019 to Present |
  FedEx Ground - Mesquite, TX
 
--Installtion Technican - January, 2019 to December, 2019
-
-
+-Installtion Technican - January, 2019 to December, 2019 |
  Safe Haven Security, ADT Authorized Dealer - Seattle, WA
 
 Education:
-- Leadership - Associate of Arts
+- Leadership - Associate of Arts |
  Southeastern University - Puyallup, WA
 
 Certifications:
