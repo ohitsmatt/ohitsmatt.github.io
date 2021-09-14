@@ -6,7 +6,7 @@ subtitle: My own digital resume
 
 Perfessional Summary:
 
- I'm a quick learning, self-driven, equipped with a diverse and promising skill-set. Capable of addressing challenges with a proven track record of increased productivity. Acted as a role model and mentor for new trainees. Provided on the job training. People oriented, able to adapt, hard working, goal-driven, and a team player
+ I'm a quick learning, self-driven, equipped with a diverse and promising skill-set. Capable of addressing challenges with a proven track record of increased productivity. Acted as a role model and mentor for new trainees. Provided on the job training. People oriented, able to adapt, hard working, goal-driven, and a team player.
 
 Skills:
 - AWS Platform, S3, VPC, EC2, CloudFront, and etc.
@@ -44,6 +44,7 @@ Affilations:
 Lead IT Tech, Motion Church in Bonney Lake WA
  - Maintained excellent internet connection
  - Fixed all tech related issues
+
 Lead Media Director, Oaks Church in Mckinney TX
  - Manage online live stream video
  - Communication with camera operators
